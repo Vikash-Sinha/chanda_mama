@@ -1,0 +1,35 @@
+*{
+	margin: 0 ;
+	padding: 0;
+}
+.container{
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+
+
+.header{
+	background-color: #1f1f1f;
+	height: 100px;
+	float: left;
+	
+}
+.header h1{
+	color: snow;
+	font-weight: bold;
+	text-align: center;
+
+
+}
+.data{
+	background-color:#1f1f1f;
+	/*height: 1700px;*/
+	float: left;
+
+
+}
+label{
+	color: #F5B7B1;
+	font-size: 28px;
+	font-weight: bold;
+}

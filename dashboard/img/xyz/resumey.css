@@ -1,0 +1,190 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: gray;
+}
+.p{
+	height: 240px;
+	width: 200px;
+	border-radius: 100%;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.container{
+	margin-top: 100px;
+}
+.left,.left1{
+	background-color:#76D7C4;
+}
+/*.left2{
+	background-color: cyan;
+
+}*/
+.left2, .h1 {
+	font-weight: bold;
+	text-align: center;
+	color: snow;
+}
+.left hr{
+	width: 380px;
+	height: 0px;
+	border-width: 5px;
+	background-color: snow;
+	color: snow;
+	margin-left: -30px;	
+}
+
+.left3 i{
+	font-size: 28px;
+	color: snow;
+	float: left;
+
+}
+.left4 i{
+	font-size: 28px;
+	color: snow;
+	float: left;
+
+}
+.left h4, .left4 h4{
+	font-weight: bold;
+	float: left;
+	margin-left: 10%;
+	margin-top: 0px;
+	color: snow;
+	font-size: 28px;
+
+}
+
+.left3_p{
+	color: snow;
+	font-weight: bold;
+}
+.add1 p{
+	margin-top: 0px;
+	margin-left: 50px;
+	color: snow;
+}
+ul li{
+	color: snow;
+	margin-left: 50px;
+	font-weight: bold;
+	list-style-type: square;
+}
+
+.right1{
+	float: left;
+	background-color: white !important;
+}
+#right2{
+	float: left;
+	margin-left:0px;
+	background-color: white !important;
+
+}
+.right1 i{
+	float: left;
+	font-size: 60px;
+	margin-left: 60px;
+	color: black;
+	border:2px solid ;
+	border-radius: 50%;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+
+}
+#right2 i{
+	float: left;
+	font-size: 60px;
+	margin-left:60px;
+	color: black;
+	border:2px solid ;
+	border-radius: 50%;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+
+}
+ .right1 h1{
+	float: left;
+	color: black;
+	font-weight: bold;
+	
+}
+ #right2 h1{
+	float: left;
+	margin-left: 0px;
+	color: black;
+	font-weight: bold;
+	
+}
+ #right1 hr{
+	width: 40%;
+	margin-left: 60%;
+	float: left;
+	background-color: black;
+	height: 2px;
+	
+}
+ #right2 hr{
+	width: 40%;
+	margin-left: 60%;
+	float: left;
+	height: 2px;
+	background-color: black;
+}
+.right1 ul li{
+	color: black;
+	float: left;
+
+	font-size: 22px;
+	margin-top: 10px;
+	margin-left:25%;
+	list-style-type: square;
+}
+ .ed1 ul li, .ed2 ul li,
+.ed3 ul li,
+.ed4 ul li
+{
+	color: black;
+	float: left;
+	font-size: 22px;
+	margin-top: 50px;
+	margin-left: 25%;
+	list-style-type: square;
+}
+.fill{
+	height: 70px;
+	float: left;
+	border-bottom: 7px solid gray;
+	background-color: white !important;
+}
+.s1,.s2,.s3,.s4,.s5,.s6{
+	float: left;
+	margin-top: 2.1%;
+
+}
+.s1 h5, .s2 h5, .s3 h5, .s4 h5, .s5 h5,
+.s6 h5{
+	float: left;
+	margin-left: 20%;
+	font-weight: bold;
+	margin-top: 5%;
+}
+.q{
+	height: 60px;
+	float: left;
+	margin-left: 20%;
+}
+.head2{
+	background-color: white !important;
+}
+
+.x1,.x2{
+	float: left;
+}

@@ -1,0 +1,255 @@
+/* header area  */
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header__section {
+    background-color: rgb(239, 165, 28);
+    height: auto;
+}
+
+.social__media {
+    line-height: 50px;
+}
+
+.social__media .fa-facebook {
+    font-size: 18px;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    line-height: 30px;
+    background-color: rgb(16, 32, 112);
+    color: #fff;
+    text-align: center;
+}
+
+.social__media .fa-instagram {
+    font-size: 18px;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    line-height: 30px;
+    background-color: orangered;
+    color: #fff;
+    text-align: center;
+}
+
+.social__media .fa-youtube {
+    font-size: 18px;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    line-height: 30px;
+    background-color: rgb(230, 46, 45);
+    color: #fff;
+    text-align: center;
+}
+
+.social__media span {
+    font-size: 18px;
+    font-weight: 550;
+    margin-left: 10px;
+}
+
+.info-section span {
+    text-shadow: 1px 1px #000;
+    color: rgb(163, 30, 29);
+}
+
+
+/*logo area*/
+
+.logo-area img {
+    height: 120px;
+    width: 120px;
+}
+
+.banner-content h1 {
+    color: rgb(16, 1, 163);
+    font-weight: bolder;
+    font-size: 55px;
+    font-family: Bitter;
+    text-align: center;
+    text-shadow: 1px 1px #000;
+}
+
+.banner-content h2 {
+    text-shadow: 1px 1px #000;
+    color: rgb(163, 30, 29);
+    font-family: IBM Plex Serif;
+    font-size: 48px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.banner-content h6 {
+    text-shadow: 1px 1px #000;
+    color: maroon;
+    font-family: Slabo 27px;
+    font-size: 23px;
+    line-height: 55px;
+    text-align: center;
+}
+
+
+/*   search section   */
+
+.search__section {
+    height: 70px;
+    background-color: rgb(69, 69, 253);
+}
+
+.search-container {
+    height: 50px;
+    width: 400px;
+    background-color: #fff;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+
+.search-container input[type=text] {
+    padding: 6px;
+    width: 330px;
+    margin-left: 10px;
+    color: #fff;
+    margin-top: 8px;
+    font-size: 17px;
+    border-radius: 30px;
+    background-color: rgb(69, 69, 253);
+    border: none;
+    outline: none;
+}
+
+.search-container ::placeholder {
+    color: #fff;
+}
+
+.search-container button {
+    padding: 3px 5px;
+    margin-right: 16px;
+    background: #fff;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+
+/*menu___section*/
+
+ul {
+    float: left;
+    line-height: 70px;
+    margin-left: 10%;
+}
+
+ul li {
+    float: left;
+    list-style: none;
+    margin-left: 40px;
+    font-size: 21px;
+    color: #fff;
+    font-weight: 600;
+    font-family: serif;
+}
+
+
+/*main area*/
+
+.main-area {
+    background-color: white;
+    text-align: center;
+}
+
+
+/*  footer section   */
+
+.footer_section {
+    height: auto;
+    padding: 20px;
+    background-color: rgb(27, 13, 1);
+}
+
+.footer-logo img {
+    height: 120px;
+    width: 120px;
+    background-color: #fff;
+    border-radius: 100px;
+}
+
+.connect-section {
+    border-left: 2px solid #fff;
+}
+
+.connect-section h3 {
+    padding-left: 30px;
+    font-family: sans-serif;
+}
+
+.connect-section h6 {
+    padding-left: 50px;
+    font-family: sans-serif;
+}
+
+.address_section {
+    border-left: 2px solid #fff;
+}
+
+.map img {
+    height: 50px;
+    width: 50px;
+}
+
+.whatsapp {
+    font-size: 45px;
+    color: greenyellow;
+}
+
+.header {
+    background-color: rgb(255, 196, 0);
+}
+
+.fa-facebook {
+    color: blue;
+}
+
+.fa-instagram {
+    color: rgb(226, 19, 147);
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.headertitle {
+    font-family: 'Krona One', sans-serif;
+}
+
+.banner1 {
+    height: 600px;
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .banner1 {
+        height: 300px;
+        width: 100%;
+    }
+}
+
+footer {
+    background-color: black;
+    height: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    footer {
+        height: 60px;
+    }
+}
